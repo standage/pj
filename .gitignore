@@ -1,0 +1,10 @@
+_posts
+_posts.tar.gz
+_site
+.coffeehintrc
+.jshintrc
+img/Thumbs.db
+.DS_Store
+node_modules
+.sass-cache
+.ruby-version
