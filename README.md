@@ -10,7 +10,7 @@ Neither of these options seemed appealing, and being busy with other things my j
 In the mean time, I was introduced to static site/blog generators and have used them for documentation in my research.
 These too seem to evolve pretty quickly, but they are much more lightweight and the core functionality seems stable enough.
 Now that I'm eager to reboot my journal, I figured the popular Jekyll platform would be a good choice.
-Finding a simple theme was effortless, and I had the journal configured in minutes.
+Finding [a simple theme](https://github.com/aigarsdz/brume) was effortless, and I had the journal configured in minutes.
 
 Github makes it easy to host static pages, but I'm not interested in my journal being accessible anywhere other than my laptop.
 It's not that my journal contains any *sensitive* or *incriminating* information, just private information that I would like to remain private.
