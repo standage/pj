@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+rm -f _posts.tar.gz*
+tar czf _posts.tar.gz _posts
+gpg --encrypt --recipient "Daniel Scott Standage" _posts.tar.gz

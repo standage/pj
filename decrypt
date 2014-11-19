@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-gpg --decrypt --output _posts.tar.gz _posts.tar.gz.gpg
+gpg --decrypt -u "Daniel Standage" --output _posts.tar.gz _posts.tar.gz.gpg
 tar xzf _posts.tar.gz
