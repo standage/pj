@@ -1,0 +1,2 @@
+#pattern  filter=crypt diff=crypt
+_posts/*/*.md filter=crypt diff=crypt
